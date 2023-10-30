@@ -20,16 +20,21 @@
 <p align="center">
   <code><img title="C" height="25" src="c.png"></code>
   <code><img title="C++" height="25" src="cpp.png"></code>
+  <code><img title="Pascal" height="25" src="pascal.png"></code>
   <code><img title="C#" height="25" src="cSharp.png"></code>
   <code><img title="Python" height="25" src="python-original.png"></code>
+  <code><img title="Tensorflow" height="25" src="tf.png"></code>
+  <code><img title="Pytorch" height="25" src="torch.png"></code>
+  <code><img title="SFML-C++" height="25" src="sfml.png"></code>
+  <code><img title="Huggingface" height="25" src="hugging.png"></code>
   <code><img title="Django" height="25" src="django.png"></code>
   <code><img title="Javascript" height="25" src="javascript.png"></code>
   <code><img title="Git" height="25" src="git-original.png"></code>
   <code><img title="Visual Studio Code" height="25" src="vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="visualstudio.png"></code>
   <code><img title="Java" height="25" src="java-original.png"></code>
-  <code><img title="CSV" height="25" src="json.png"></code>
-  <code><img title="Unreal Engine" height="25" src="unity3d.png"></code>
+  <code><img title="JSON" height="25" src="json.png"></code>
+  <code><img title="Unreal Engine" height="25" src="unreallogo.png"></code>
   <code><img title="GitHub" height="25" src="github.png"></code>
   <code><img title="MySQL" height="25" src="mysql.png"></code>
   <code><img title="PHP" height="25" src="php.png"></code>
