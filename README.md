@@ -17,7 +17,27 @@
 - 😄 Pronouns: He/His
 
 ### Languages and Frameworks I Specialise in : 🛠
-
+<p align="center">
+  <code><img title="LUA" height="25" src="images/Lua-Logo.svg"></code>
+  <code><img title="C" height="25" src="images/c.svg"></code>
+  <code><img title="C++" height="25" src="cpp.png"></code>
+  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="Django" height="25" src="images/django.png"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>
+  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <code><img title="Flask" height="25" src="images/flask.png"></code>
+</p>
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">
 <hr>
 
