@@ -1,12 +1,12 @@
 ---
-title: Sharannyo Basu
+title: Sami Lütfi
 date: '2020-19-09'
 spoiler: Dynamic Realtime Readme Template
 categories: ["dynamic-realtime", "all-profile"]
-githubUsername: 'sharannyobasu'
+githubUsername: 'system-linux'
 ---
 
-# Hey there ! I am Sharannyo Basu ! &emsp;  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
+# Hey there ! I am Sami Lütfi ! &emsp;  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 
 <p> 
   Visitor count<br>
@@ -21,13 +21,9 @@ githubUsername: 'sharannyobasu'
 
 ### Here are some ideas to help you get started:
 
-- 🔭 I’m currently working on <strong>Full-Stack Web Development</strong>
-- 🌱 I’m currently contributing to <strong>Open Source</strong> and learning <strong>React JS</strong>
-- 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
-- 🤔 I’m looking for help in <strong>Machine Learning / Data Science</strong>
-- 💬 Ask me about <strong>Data Structures in C++, JavaScript, Bootstrap, Graphic Designing (Canva), VCS and Personal Branding</strong>
+- 🔭 I’m currently working on <strong>Full-Stack Web Development,Deep&Machine Learning models.</strong>
+- 💬 Ask me about <strong> in Python, C++, Pascal, JavaScript, Bootstrap, HTML, CSS, Tensorflow, Huggingface</strong>
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I can talk 24/7 about football.
 
 ### Tools I work upon : 🛠
 
@@ -38,4 +34,4 @@ githubUsername: 'sharannyobasu'
 
 #### Thank You-🙏🏼
 
-⭐️ From [Sharannyo Basu](https://github.com/sharannyobasu)
+⭐️ From [Sharannyo Basu](https://github.com/system-linux)
