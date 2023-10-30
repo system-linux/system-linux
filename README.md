@@ -1,11 +1,3 @@
----
-title: Sami Lütfi
-date: '2020-19-09'
-spoiler: Dynamic Realtime Readme Template
-categories: ["dynamic-realtime", "all-profile"]
-githubUsername: 'system-linux'
----
-
 # Hey there ! I am Sami Lütfi ! &emsp;  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 
 <p> 
