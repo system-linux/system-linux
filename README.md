@@ -43,7 +43,7 @@
 <hr>
 
 <img src="https://github-readme-stats.vercel.app/api?username=system-linux&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=system-linux&show_icons=true&theme=radical)
 #### Thank You-🙏🏼
 
 ⭐️ From [Sami Lütfi](https://github.com/system-linux)
