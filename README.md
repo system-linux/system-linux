@@ -6,9 +6,6 @@
 </p>
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
-
-<img src="https://img.shields.io/badge/yobasu2015@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="talhasamiyildiz07@gmail.com">   <a  href="https://www.instagram.com/willy.cpp/"><img src="https://img.shields.io/badge/@sharannyo_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-
 <hr>
 
 ### Here are some ideas to help you get started:
