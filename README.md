@@ -1,7 +1,7 @@
 # Hey there ! I am Sami Lütfi ! Let's go ! &emsp;  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 
 <p> 
-  Visitor count<br>
+  Visitor count <br>
   <img src="https://profile-counter.glitch.me/system-linux/count.svg"/>
 </p>
 
