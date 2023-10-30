@@ -1,4 +1,4 @@
-# Hey there ! I am Sami Lütfi ! Let's go ! &emsp;  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" style="color: blue;" width="40px">
+# Hey there ! I am Sami Lütfi ! Let's go ! &emsp;  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 
 <p> 
   Visitor count<br>
