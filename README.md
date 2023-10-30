@@ -20,7 +20,7 @@
 <p align="center">
   <code><img title="C" height="25" src="c.png"></code>
   <code><img title="C++" height="25" src="cpp.png"></code>
-  <code><img title="Pascal" height="25" src="pascal.png"></code>
+  <code><img title="Pascal" height="25" src="pascal.jpeg"></code>
   <code><img title="C#" height="25" src="cSharp.png"></code>
   <code><img title="Python" height="25" src="python-original.png"></code>
   <code><img title="Tensorflow" height="25" src="tf.png"></code>
