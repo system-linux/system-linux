@@ -24,9 +24,9 @@
   <code><img title="C#" height="25" src="cSharp.png"></code>
   <code><img title="Python" height="25" src="python-original.png"></code>
   <code><img title="Tensorflow" height="25" src="tf.png"></code>
-  <code><img title="Pytorch" height="25" src="torch.png"></code>
-  <code><img title="SFML-C++" height="25" src="sfml.png"></code>
-  <code><img title="Huggingface" height="25" src="hugging.png"></code>
+  <code><img title="Pytorch" height="25" src="pytorch_logo.png"></code>
+  <code><img title="SFML-C++" height="25" src="sfml-logo-big.png"></code>
+  <code><img title="Huggingface" height="25" src="huggingface.png"></code>
   <code><img title="Django" height="25" src="django.png"></code>
   <code><img title="Javascript" height="25" src="javascript.png"></code>
   <code><img title="Git" height="25" src="git-original.png"></code>
