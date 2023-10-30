@@ -18,21 +18,21 @@
 
 ### Languages and Frameworks I Specialise in : 🛠
 <p align="center">
-  <code><img title="C" height="25" src="c.svg"></code>
+  <code><img title="C" height="25" src="c.png"></code>
   <code><img title="C++" height="25" src="cpp.png"></code>
-  <code><img title="C#" height="25" src="cSharp.svg"></code>
-  <code><img title="Python" height="25" src="python-original.svg"></code>
+  <code><img title="C#" height="25" src="cSharp.png"></code>
+  <code><img title="Python" height="25" src="python-original.png"></code>
   <code><img title="Django" height="25" src="django.png"></code>
-  <code><img title="Javascript" height="25" src="javascript.svg"></code>
-  <code><img title="Git" height="25" src="git-original.svg"></code>
+  <code><img title="Javascript" height="25" src="javascript.png"></code>
+  <code><img title="Git" height="25" src="git-original.png"></code>
   <code><img title="Visual Studio Code" height="25" src="vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="visualstudio.png"></code>
-  <code><img title="Java" height="25" src="java-original.svg"></code>
-  <code><img title="CSV" height="25" src="json.svg"></code>
-  <code><img title="Unreal Engine" height="25" src="unity3d.svg"></code>
-  <code><img title="GitHub" height="25" src="github.svg"></code>
-  <code><img title="MySQL" height="25" src="mysql.svg"></code>
-  <code><img title="PHP" height="25" src="php.svg"></code>
+  <code><img title="Java" height="25" src="java-original.png"></code>
+  <code><img title="CSV" height="25" src="json.png"></code>
+  <code><img title="Unreal Engine" height="25" src="unity3d.png"></code>
+  <code><img title="GitHub" height="25" src="github.png"></code>
+  <code><img title="MySQL" height="25" src="mysql.png"></code>
+  <code><img title="PHP" height="25" src="php.png"></code>
   <code><img title="Flask" height="25" src="flask.png"></code>
 </p>
 <hr>
