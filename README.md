@@ -43,6 +43,7 @@
 <hr>
 
 <img src="https://github-readme-stats.vercel.app/api?username=system-linux&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=system-linux&hide_progress=true">
 #### Thank You-🙏🏼
 
 ⭐️ From [Sami Lütfi](https://github.com/system-linux)
