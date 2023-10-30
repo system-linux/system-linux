@@ -8,12 +8,12 @@
 <hr>
 
 ### Here are some ideas to help you get started:
-- 🔬 I'm currently studying for a highschool in Alanya Bahçeşehir Science and Technology School
-- 🎓 I graduated from Gazipaşa Cumhuriyet Middleschool
-- 🎓 I graduated from Gazipaşa İstiklal Şehit Süleyman Gür Firstschool
+- 🔬 I'm currently studying for a highschool in <strong>Alanya Bahçeşehir Science and Technology School</strong>
+- 🎓 I graduated from <strong>Gazipaşa Cumhuriyet Middleschool</strong>
+- 🎓 I graduated from <strong>Gazipaşa İstiklal Şehit Süleyman Gür Firstschool</strong>
 - 🖥️ Since the age of 12, I have been very interested in coding, web development and artificial intelligence.
 - 🔭 I’m currently working on <strong>Full-Stack Web Development,Deep&Machine Learning models.</strong>
-- 💬 Ask me about <strong> in Python, C++, Pascal, JavaScript, Bootstrap, HTML, CSS, Tensorflow, Huggingface</strong>
+- 💬 You can ask me anything about programming and artificial intelligence
 - 😄 Pronouns: He/His
 
 ### Languages and Frameworks I Specialise in : 🛠
