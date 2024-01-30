@@ -9,12 +9,10 @@
 
 ### Here are some ideas to help you get started:
 - 🔬 I'm currently studying for a highschool in <strong>Alanya Bahçeşehir Science and Technology School</strong>
-- 🎓 I graduated from <strong>Gazipaşa Cumhuriyet Middleschool</strong>
-- 🎓 I graduated from <strong>Gazipaşa İstiklal Şehit Süleyman Gür Firstschool</strong>
 - 🖥️ Since the age of 12, I have been very interested in coding, web development and artificial intelligence.
 - 🔭 I’m currently working on <strong>Full-Stack Web Development,Deep&Machine Learning models.</strong>
 - 💬 You can ask me anything about programming and artificial intelligence
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 
 ### Languages and Frameworks I Specialise in : 🛠
 <p align="center">
