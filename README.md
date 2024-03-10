@@ -1,4 +1,4 @@
-# Hey there ! I am Sami Lütfi ! Let's go ! &emsp;  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
+# Hey there! Let's go ! &emsp;  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 
 <p> 
   Visitor count <br>
@@ -8,10 +8,10 @@
 <hr>
 
 ### Here are some ideas to help you get started:
-- 🔬 I'm currently studying for a highschool in <strong>Alanya Bahçeşehir Science and Technology School</strong>
-- 🖥️ Since the age of 12, I have been very interested in coding, web development and artificial intelligence.
+- 🔬 I'm currently studying for a highschool in <strong>Bahçeşehir Science and Technology School</strong>.
+- 🖥️ Since the age of 11, I have been dealing with <strong>programming, web programming and artificial intelligence</strong> like crazy.
 - 🔭 I’m currently working on <strong>Full-Stack Web Development,Deep&Machine Learning models.</strong>
-- 💬 You can ask me anything about programming and artificial intelligence
+- 💬 You can ask me anything about programming and artificial intelligence.
 - 😄 Pronouns: He/Him
 
 ### Languages and Frameworks I Specialise in : 🛠
